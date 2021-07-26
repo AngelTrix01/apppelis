@@ -35,7 +35,3 @@ ul.tabs {
     text-align: center;
 }
  
-ul.tabs li {
-    float: none !important;
-    display: inline-block;
-}
