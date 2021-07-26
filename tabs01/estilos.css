@@ -30,3 +30,12 @@ body {
 .active[data-content] {
 	display: block;
 }
+ 
+ul.tabs {
+    text-align: center;
+}
+ 
+ul.tabs li {
+    float: none !important;
+    display: inline-block;
+}
