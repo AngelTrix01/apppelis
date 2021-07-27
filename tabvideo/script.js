@@ -1,4 +1,4 @@
-(Function(d))
+(Function(d){
 let tabs = Array.prototype.slice.apply(d.querySelectorAll(".tabs__item")
 let panels = Array.prototype.slice.apply(d.querySelectorAll(".panels__item");
 d.getElementById("tabs").addEventListener("click", e =>{
