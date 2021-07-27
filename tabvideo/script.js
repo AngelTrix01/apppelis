@@ -1,6 +1,6 @@
 (function(d){
 let tabs = Array.prototype.slice.apply(d.querySelectorAll(".tabs__item"));
-let panels = Array.prototype.slice.apply(d.querySelectorAll(".panels__item");
+let panels = Array.prototype.slice.apply(d.querySelectorAll(".panels__item"));
 d.getElementById("tabs").addEventListener("click", e =>{
 	if (e.target.classList.contains("tabs__item")) {
 		let i = tabs.indexOf(e.target);
