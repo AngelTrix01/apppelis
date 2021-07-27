@@ -1,37 +1,66 @@
 
-* {
-	margin: 0;
-	padding: 0;
-	box-sizing: border-box;
-	font-family: Sans-Serif;
-}
-
-body {
-	padding: 5%;
-}
-
-.menu {
-	display: flex;
-}
-
-.menu p {
-	margin-right: 2rem;
-	cursor: pointer;
-}
-
-.content {
-	margin-top: 2rem;
-}
-
-[data-content] {
-	display: none;
-}
-
-.active[data-content] {
-	display: block;
-}
+🛡️AMCAsoft, [26.07.21 13:40]
+* { 
+ margin: 0; 
+ padding: 0; 
+ box-sizing: border-box; 
+ font-family: sans-serif; 
+} 
  
-ul.tabs {
-    text-align: center;
-}
+body { 
+ padding: 0%; 
+ margin: 0; 
+} 
  
+.menu { 
+ display: flex; 
+  background: #7112CF; 
+  margin: 0; 
+  padding: 0; 
+  bottom: 0; 
+  overflow: hidden; 
+  list-style-type: none; 
+  flex: auto; 
+  justify-content: center; 
+ 
+} 
+ 
+.menu p { 
+color: #E0CEF2; 
+ cursor: pointer; 
+ text-align: center; 
+ padding: 15px 25px; 
+ text-decoration: none; 
+  flex-grow: 1; 
+display: block; 
+ 
+} 
+ 
+ 
+.menu p:hover{ 
+ background: #4F0C92; 
+} 
+ 
+.content { 
+ margin-top: 1rem; 
+} 
+ 
+[data-content] { 
+ display: none; 
+} 
+ 
+.active[data-content] { 
+ display: block; 
+} 
+ 
+.item-izquierda{ 
+ float: right; 
+} 
+ 
+.item-center{ 
+ float: center; 
+} 
+ 
+.item-derecha{ 
+ float: right; 
+}
