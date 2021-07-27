@@ -99,26 +99,8 @@
     min-height: 100vh;
     box-sizing: border-box;
 }
-.up-popup {
-    z-index: 20000;
-    background-color: #fff;
-    padding: 15px;
-    box-shadow: 0 0 4px rgba(0, 0, 0, .3);
-}
-.up-toast {
-    border-top: 3px solid #28b;
-    background-color: #fff;
-    color: #333;
-    padding: 10px;
-    font-family: monospace;
-    font-size: 14px;
-    line-height: 15px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    z-index: 99999999;
-}
+
+
 .up-toast-variable {
     font-weight: 400;
     color: gray;
@@ -259,20 +241,7 @@ header {
     margin: 0;
     background: #000000e6;
 }
-.Logo_dd {
-/*	width: 140px;
-    height: 40px;
-    float: left;
-    margin: 1px 0 0 0;
-    background-image: url(https://i.imgur.com/zNoKCqz.png);
-    background-repeat: no-repeat;*/
-    float: left;
-    margin: 7px 0 0 15px;
-    font-size: 35px;
-    font-weight: 200;
-    color: #fff;
-    display: inline-block;
-}
+
 header nav {
     margin: 19px 0 0 25px;
     display: inline-block;
@@ -745,7 +714,7 @@ footer a:hover {
 }
 
 .CA_Active {
-    position: fixed;
+    position: relative;
     z-index: 20000;
         width: 100%;
     width: -moz-available;        
@@ -1011,20 +980,7 @@ footer a:hover {
 .pagMovidy a:hover {
     background: #23232d;
 }
-.listSearch {
-    display: none;
-    width: 100%;
-    width: -moz-available;
-    width: -webkit-fill-available;
-    width: fill-available;
-    background: #fff;
-    margin: -35px 0 0 0;
-    min-height: 50px;
-    float: left;
-    border-radius: 20px 20px 6px 5px;
-    overflow: hidden;
-    padding: 45px 5px 5px 5px;
-}
+
 .listSearchA {
     display: block;
 }
@@ -8830,37 +8786,7 @@ textarea.articleadmin {
 
 
 
-.listadolinks li {
-    display: inline-block;
-    min-height: 68px;
-    margin: 10px 10px 5px 0;
-    width: 31%;
-    background: #1d1d29;
-    padding: 10px;
-}
 
-.listadolinks li img{
-    float: left;
-    margin: 0 20px 0 0;
-}
-
-.listadolinks li h2{
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    display: block;
-    font-size: 16px;
-    font-weight: 400;
-    color: #ffffff;
-    margin: 5px 0 0 0;
-}
-
-.listadolinks li span{
-    color: #b5b5b5;
-    margin: 5px 0 0 0;
-    display: inline-block;
-    font-size: 13px;
-}
 
 .options_f a {
     float: left !important;
@@ -8880,66 +8806,8 @@ textarea.articleadmin {
     border-radius: 6px;
 }
 
-.Banned {
-   background: #781111;
-    padding: 10px;
-    border-radius: 5px;
-    margin: 0 0 15px 0;
-}
-
-.Banned h2{
-       margin: 0 0 10px 0;
-    font-size: 16px;
-    text-transform: uppercase; 
-}
 
 
-.Banned span{
-    float: initial;
-    color: #ebebeb;
-    background: #ffffff14;
-    padding: 10px;
-    border-radius: 5px;
-    display: block;
-    font-size: 15px;
-}
-
-
-.deleteAllVm {
-    display: inline-block;
-    background: #570707;
-    padding: 10px;
-    margin: 10px 10px 0 0;
-    border-radius: 6px;
-    color: #ffffff;
-    width: 97%;
-    text-align: center;
-}
-
-.listadolinks li a {
-    display: block;
-    margin: 15px 0;
-    color: #1d96fd;
-}
-
-.PanelNav ul {
-    background: #111010;
-    padding: 10px;
-    border-radius: 10px;
-}
-
-.PanelNav ul p{
-    margin: 10px 0;
-    padding: 0 0 15px 0;
-    text-align: center;
-    border-bottom: 1px solid #323232;
-    text-transform: uppercase;
-    color: #bbb;
-}
-
-.remoteCLD {
-
-}
 
 .remoteCLD h5 {
     font-size: 50px;
@@ -8970,37 +8838,9 @@ textarea.articleadmin {
     padding: 15px;
 }
 
-.EnlacesRemoteEps span{
-        background: #1a1a1a;
-    display: inline-block;
-    width: 30%;
-    margin: 0.2%;
-    padding: 20px;
-}
 
-.EnlacesRemoteEps span a p{
-    margin: 0 0 10px 0;
-    font-size: 20px;
-    color: #fff;
-}
 
-.EnlacesRemoteEps span form input{
-    width: -webkit-fill-available;
-    background: #ffffff12;
-    border: none;
-    padding: 15px 20px;
-    margin: 0 0 20px 0;
-    color: #fff;
-}
 
-.EnlacesRemoteEps span form input:last-child{
-    background: #196daf;
-    color: #fff;
-    width: auto;
-    padding: 10px 15px;
-    cursor: pointer;
-    margin: 0;
-}
 
 .vdPlanelD {
     background: #3e0707 !important;
