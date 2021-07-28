@@ -144,8 +144,6 @@ body {
    justify-content: center;
    align-items: center;
    height: 100vh;
-   background: #23b499;
-   font-family: 'Open Sans', sans-serif;
    color: #fff;
 }
 select {
