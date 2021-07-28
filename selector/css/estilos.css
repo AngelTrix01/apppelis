@@ -154,11 +154,11 @@ select {
    outline:0;
    box-shadow:none;
    border:0!important;
-   background: #5c6664;
+   background: #000000;
    background-image: none;
    flex: 1;
    padding: 0 .5em;
-   color:#fff;
+   color:#CE8787 ;
    cursor:pointer;
    font-size: 1em;
    font-family: 'Open Sans', sans-serif;
@@ -172,7 +172,7 @@ select::-ms-expand {
    width: 20em;
    height: 3em;
    line-height: 3;
-   background: #5c6664;
+   background: #fff ;
    overflow: hidden;
    border-radius: .25em;
 }
@@ -188,5 +188,5 @@ select::-ms-expand {
    transition:.25s all ease;
 }
 .select:hover::after {
-   color: #23b499;
+   color: #fff;
 }
