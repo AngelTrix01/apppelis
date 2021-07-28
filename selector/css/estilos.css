@@ -144,7 +144,9 @@ body {
    justify-content: center;
    align-items: center;
    height: 100vh;
-   color: #fff;
+   background: #fff;
+   font-family: 'Open Sans', sans-serif;
+   color: #000;
 }
 select {
    -webkit-appearance:none;
@@ -154,11 +156,11 @@ select {
    outline:0;
    box-shadow:none;
    border:0!important;
-   background: #000000;
+   background: #958080;
    background-image: none;
    flex: 1;
    padding: 0 .5em;
-   color:#CE8787 ;
+   color:#fff;
    cursor:pointer;
    font-size: 1em;
    font-family: 'Open Sans', sans-serif;
@@ -169,10 +171,10 @@ select::-ms-expand {
 .select {
    position: relative;
    display: flex;
-   width: 20em;
-   height: 3em;
+   width: 12em;
+   height: 2.8em;
    line-height: 3;
-   background: #fff ;
+   background: #5c6664;
    overflow: hidden;
    border-radius: .25em;
 }
@@ -188,5 +190,5 @@ select::-ms-expand {
    transition:.25s all ease;
 }
 .select:hover::after {
-   color: #fff;
+   color: #23b499;
 }
