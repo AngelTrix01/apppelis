@@ -1,4 +1,0 @@
- iframe allowfullscreen= frameborder=0 height=472px id=iframe2 sandbox=allow-same-origin  
-allow-scripts
-onload=$('.iframe-loading').css; scrolling=no src=httpspelisplushd.netfembed.phpurl=5derycdje7441yn#caption=&poster=# 
-width=100%iframe
