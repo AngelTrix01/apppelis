@@ -766,7 +766,7 @@ span[class*="type-"]{vertical-align:middle}
 }
 @media (min-width:1200px){
 .cont{max-width:1130px}
-.dfxd{display:-webkit-box;display:-ms-flexbox;display:flex}
+.dfxd{display:-webkit-box;display:-ms-flexbox;display:flex;  justify-content: center;}
 .shwd{display:block}
 .hddd{display:none}
 .fg1d,.rw.rfg1d>*{-ms-flex-preferred-size:0;flex-basis:0;-ms-flex-positive:1;-webkit-box-flex:1;flex-grow:1;max-width:100%}
