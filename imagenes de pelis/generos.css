@@ -207,7 +207,7 @@ button::-moz-focus-inner,input::-moz-focus-inner,select::-moz-focus-inner{border
 .SearchBtn>i{opacity:0;font-size:2rem}
 /*09 - .Body*/
 .Body{margin-bottom:1.875rem}
-.Body .Main:first-child{padding-top:0rem}
+.Body .Main:first-child{padding-top:0rem; height: 1;}
 .Objf img{object-fit:cover;object-position:top}
 .Objf.bgcvr{background-size:cover;background-position:50% 0}
 .Objf.bgcvr img{opacity:0!important}
