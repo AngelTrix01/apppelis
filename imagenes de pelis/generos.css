@@ -227,7 +227,7 @@ button::-moz-focus-inner,input::-moz-focus-inner,select::-moz-focus-inner{border
 .Views:before{margin-right:.2rem}
 .MovieListSld .owl-dots{position:absolute;left:0;right:0;margin:auto;bottom:2.5rem}
 .TPost .Image{position:relative}
-.TPost .Image figure,.TPost .Image figure img{border-radius:3px;overflow:hidden}
+.TPost .Image figure,.TPost .Image figure img{border-radius:0px;overflow:hidden}
 .TPost .Image figure{position:relative;padding-top:150%}
 .TPost .Image figure img{position:absolute;left:0;top:0;width:100%;height:100%}
 .TPost .Image figure img[src*=".svg"]{object-position: 50% 45%}
