@@ -407,7 +407,7 @@ p.logged-in-as a:hover{opacity: 1;}
 .comment-reply-link:before{font-size: 1rem;content: '\e0b7';margin-right: .4rem;margin-top: 2px;}
 .comment-body p:first-child,.comment-body p:last-of-type{margin-bottom: 0;}
 .comment-reply-title{float: left;margin-top: 5px;}
-.TPost.B .Image .MvIC{position: absolute;left: 62px;top: 5px;}
+.TPost.B .Image .MvIC{position: absolute;left: 5px;top: 5px;}
 .TPost.B .MvIC{display: inline-block;vertical-align: top;}
 .TPost.B .MvIC .Qlty{margin-right: 5px;}
 .TPost.B .Image .MvIC .Qlty{position: static;margin-bottom: 3px;font-weight: 700;float: left;clear: both;margin-right: 5px;height: auto;}
