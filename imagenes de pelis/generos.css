@@ -64,7 +64,7 @@ h6{font-size:1rem}
 html{overflow-x:hidden;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;-moz-osx-font-smoothing:grayscale}
 .Tf-Wp{min-height:100vh;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-direction:normal;-moz-box-direction:normal;-webkit-box-orient:vertical;-moz-box-orient:vertical;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column}
 .Tf-Wp>.Body{-webkit-box-ordinal-group:1;-moz-box-ordinal-group:1;-webkit-box-flex:1;-moz-box-flex:1;-webkit-flex:1 0 auto;-ms-flex:1 0 auto;flex:1 0 auto}
-.Container{margin:0 auto;padding:0 1rem;width:100%}
+.Container{margin:0 auto;padding:0.6rem;width:100%}
 /*(Spaces)*/
 .jm15{color:#000}
 hr{margin:1.870rem 0}
