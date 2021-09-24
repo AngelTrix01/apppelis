@@ -285,7 +285,7 @@ article>.Top>.Title{font-size:2rem}
 .AZList>li>a{display:block;line-height:30px;border-radius:3px;font-size:.875rem;font-weight:700;text-transform:uppercase;min-width:28px}
 .MovieList{margin-left:-.4rem;margin-right:-.4rem}
 main .MovieList{margin-bottom:1.6rem}
-.MovieList>li{padding:0 .3rem .6rem}
+.MovieList>li{padding:0 .2rem .6rem}
 .TpTv{color:#fff;border-radius:10px;line-height:1rem;height: 1rem;font-size:.625rem!important;display:inline-block;vertical-align:middle;padding:0 .6rem;font-weight:700;margin-top:-2px;text-transform:uppercase}
 .TPost.B .Image .TpTv{position:absolute;left:10px;top:10px;z-index:4}
 .TPost.C{position:relative;padding-left:68px;min-height:90px;margin-bottom:1rem}
