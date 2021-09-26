@@ -82,7 +82,7 @@ body.black-mode{background:black}
 .light-mode .prev_btn{color:#FEFEFE;background:transparent;background:linear-gradient(to left,transparent,transparent)}
 .megaplay-mode .prev_btn{color:#FEFEFE;background:transparent;background:linear-gradient(to left,transparent,transparent)}
 .black-mode .prev_btn{color:#FEFEFE;background:transparent;background:linear-gradient(to left,transparent,transparent)}
-.next_btn{width:40px;position:absolute;right:0px;top:0px;bottom:0px;z-index:3;border:none;font-size:25pt}
+.next_btn{width:40px;position:absolute;right:0px;top:0px;bottom:0px;z-index:3;border:none;font-size:18pt}
 .dark-mode .next_btn {background:transparent;background:linear-gradient(to right,transparent,transparent);color:#FEFEFE}
 .light-mode .next_btn{background:transparent;background:linear-gradient(to right,transparent,transparent);color:#FEFEFE}
 .megaplay-mode .next_btn{background:transparent;background:linear-gradient(to right,transparent,transparent);color:#FEFEFE}
