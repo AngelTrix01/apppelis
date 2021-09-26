@@ -113,7 +113,7 @@ body.black-mode{background:black}
 .episode-detail  > span{position:absolute;bottom:0px;width:100%;padding:8px}
 .episode-detail   h4{color:white;width:100%;white-space:pre-line;font-size:17pt;font-weight:bold}
 .episode-detail   p{font-size:10pt;width:100%;white-space:pre-wrap;margin-bottom:0px;color:#aaa!important;height:75px;text-overflow:ellipsis;overflow:hidden;display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical}
-.poster{position:relative;padding:10px;display:inline-block;transition:transform .1s;margin-bottom:5px;position:relative;margin-top:5px}
+.poster{position:relative;padding:3px;display:inline-block;transition:transform .1s;margin-bottom:5px;position:relative;margin-top:5px}
 .poster>div>div>p{z-index:2;display:inline-block;border-top-right-radius:10px;border-bottom-right-radius:10px;background:white;padding:1px 7px 1px 7px;box-shadow:1px 0px 2px 0px black;color:#555!important}
 .poster>div>div>p.two{margin-left:-10px;padding:1px 7px 1px 15px}
 .poster>div>div>span{border-top-right-radius:10px;border-bottom-right-radius:10px;background:#673AB7;padding:1px 7px 1px 7px;position:relative;z-index:1;display:inline-block;box-shadow:1px 0px 2px 0px black}
