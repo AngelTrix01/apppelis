@@ -42,7 +42,7 @@ body.black-mode{background:black}
 .dark-mode .tab-title{color:#eee}
 .light-mode .tab-title{color:#555}
 .top-nav > .nav-search-box{display:inline-table;height:50px}
-.top-nav{padding-top:20px;padding-bottom:10px;padding-left:10px;padding-right:10px;margin-right:0px!important;margin-left:0px!important}
+.top-nav{padding-top:20px;padding-bottom:10px;padding-left:5px;padding-right:10px;margin-right:0px!important;margin-left:0px!important}
 .content-section{padding-top:20px;padding-bottom:10px;padding-left:10px;padding-right:10px;margin-right:0px!important;margin-left:0px!important}
 .search-group > input{font-size:10pt;margin-left:30px;margin-top:0px!important;height:36px!important;min-height:36px!important;background:transparent!important;border:none!important;box-shadow:none!important;width:calc(100% - 100px)!important}
 .dark-mode .search-group > input{color:#eee}
