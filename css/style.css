@@ -77,7 +77,7 @@ body.black-mode{background:black}
 .flix-scroll-x{width:100%;overflow-x:scroll;overflow-y:hidden;white-space:nowrap;position:relative}
 .flix-scroll-x::-webkit-scrollbar{display:none}
 .flix-carousel{position:relative;width:100%;min-height:100px}
-.prev_btn{display:none;width:40px;position:absolute;left:0px;top:0px;bottom:0px;z-index:3;border:none;font-size:25pt}
+.prev_btn{display:none;width:40px;position:absolute;left:0px;top:0px;bottom:0px;z-index:3;border:none;font-size:18pt}
 .dark-mode .prev_btn{color:#FEFEFE;background:transparent;background:linear-gradient(to left,transparent,transparent)}
 .light-mode .prev_btn{color:#FEFEFE;background:transparent;background:linear-gradient(to left,transparent,transparent)}
 .megaplay-mode .prev_btn{color:#FEFEFE;background:transparent;background:linear-gradient(to left,transparent,transparent)}
