@@ -951,7 +951,7 @@ p{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;margin-top:0}.new
 .slider{width:99%;padding:1%}#contenedor
 .contenido{width:100%!important}#contenedor .contenido
 .box_item{max-width:99%;margin:1%}#contenedor .contenido .box_item
-.peliculas{width:99%;padding:1%;border-right:0;margin-right:0;box-shadow:0 0 0;-webkit-box-shadow:0 0 0;-moz-box-shadow:0 0 0}#footer{width:96%!important;margin:2%}.items
+.peliculas{width:100%;padding:0%;border-right:0;margin-right:0;box-shadow:0 0 0;-webkit-box-shadow:0 0 0;-moz-box-shadow:0 0 0}#footer{width:96%!important;margin:2%}.items
 .item{width:23%}#single
 .s_left{max-height:0;width:100%}#single
 .s_right{width:100%;position:relative;float:left}#single .s_right .categorias,#single .s_right
