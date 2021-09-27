@@ -948,10 +948,10 @@ p{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;margin-top:0}.new
 .box{width:100%}#contenedor
 .contenido{margin-top:53px}#single{width:96%;padding:2%}.clear,.fake_player,.movieplay{width:100%}.clear{display:block;margin-top:25px;float:left}#contenedor .contenido .box_item .lateral,#contenedor .contenido .header,#header,.ads_728,.skl,.slider_home_box
 .ads{display:none}.movieplay{padding-bottom:56.25%}.slider_home_box
-.slider{width:96%;padding:2%}#contenedor
+.slider{width:99%;padding:1%}#contenedor
 .contenido{width:100%!important}#contenedor .contenido
-.box_item{max-width:96%;margin:2%}#contenedor .contenido .box_item
-.peliculas{width:96%;padding:2%;border-right:0;margin-right:0;box-shadow:0 0 0;-webkit-box-shadow:0 0 0;-moz-box-shadow:0 0 0}#footer{width:96%!important;margin:2%}.items
+.box_item{max-width:99%;margin:1%}#contenedor .contenido .box_item
+.peliculas{width:99%;padding:1%;border-right:0;margin-right:0;box-shadow:0 0 0;-webkit-box-shadow:0 0 0;-moz-box-shadow:0 0 0}#footer{width:96%!important;margin:2%}.items
 .item{width:23%}#single
 .s_left{max-height:0;width:100%}#single
 .s_right{width:100%;position:relative;float:left}#single .s_right .categorias,#single .s_right
@@ -962,7 +962,7 @@ p{-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;margin-top:0}.new
 .bff{padding:0
 2% 2%}}@media only screen and (max-width:667px){#contenedor .contenido
 .header{display:none}.item_2
-.item{width:100%}}@media only screen and (max-width:600px){.player_nav{width:96%;padding:2%}.player_nav ul
+.item{width:100%}}@media only screen and (max-width:600px){.player_nav{width:99%;padding:1%}.player_nav ul
 li{width:50%}.player_nav ul li
 a{width:98%;margin-bottom:1.5%;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px}.item_2
 .item{width:100%}.fso_add_remove_links{display:none}}@media only screen and (max-width:540px){#footer span.copyright,.fake_player section span.controles b.logo,.fake_player section span.controles
